@@ -61,11 +61,11 @@ git initial settings
 
 Staged Archives
 
-![Processo](https://github.com/Judenilson/dio-github-first-repository-challenge/blob/main/img/staged.png)
+![staged](https://github.com/Judenilson/dio-github-first-repository-challenge/blob/main/img/staged.png "staged")
 
 Commits Archives
 
-![commit](https://github.com/Judenilson/dio-github-first-repository-challenge/blob/main/img/commits.png)
+![commit](https://github.com/Judenilson/dio-github-first-repository-challenge/blob/main/img/commits.png "commit")
 
 ---
 
@@ -89,4 +89,4 @@ Upload archives
 
 If there are conflicts we must pull remote archives.
 
-> git pull origin master
+> 
