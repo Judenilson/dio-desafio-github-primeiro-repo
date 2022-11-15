@@ -1,8 +1,8 @@
-# Curso de Git
+# Git Class
 
 ---
 
-## Objetos Git
+## Git Objects
 
 ### Blobs - Trees - Commits
 
@@ -20,73 +20,73 @@ fc31e91b26cf85a55e072476de7f263c89260eb1
 
 ---
 
-Gerar Chave SSH
+Create SSH key
 
 > ssh-keygen -t ed25519 -C judenilson@hotmail.com
 
-Pegar a chave pública no diretório criado
+To take a public key in created directory
 
 > cat id_ed25519.pub
 
 > eval $(ssh-agent -s)
 
-Inserir a chave no PC
+To Insert the key in PC
 
 > ssh-add id_ed25519
 
 ---
 
-- Iniciar o GIT
+- Start GIT
 
-- Iniciar o versionamento
+- Start versioning 
 
-- Criar um commit
+- Create a commit 
   
   - git init
   
-  - git add \*.* (inserindo todos os arquivos no repo)
+  - git add \*.* (Insert all archives in repo)
   
-  - git commit -m "texto commit"
+  - git commit -m "text commit"
   
   - git push master
 
 ---
 
-git configurações iniciais
+git initial settings
 
 > git config --global user.email "judenilson@hotmail.com"
 > git config --global user.name "judenilson"
 
-## Ciclo do GIT
+## GIT Cycle
 
-Arquivos em Staged
+Staged Archives
 
 ![](C:\Users\Judenilson\AppData\Roaming\marktext\images\2022-11-14-16-12-58-image.png)
 
-Arquivos Commitados
+Commits Archives
 
 ![](C:\Users\Judenilson\AppData\Roaming\marktext\images\2022-11-14-16-13-13-image.png)
 
 ---
 
-No GitHUB é bom ter as mesmas configs entre máquinas.
+In GitHUB is good to have the same settings between computers.
 
-Lista todas as configs
+Lista all settings
 
 > git config --list
 
-Volta para zero a config específica, para poder alterar
+Be back to blank the specific setting, to take change.
 
 > git config --global --unset user.email 
 
-Após criar o repositório no GitHub deve-se apontar o repo local para o remote
+After create repo in GitHub we must to point the local repository to remote.
 
 >  git remote add origin "link para o git"
 
-Subir os arquivos
+Upload archives
 
 > git push origin master
 
-Caso tenha conflitos deve-se puxar os arquivo do remoto.
+If there are conflicts we must pull remote archives.
 
 > git pull origin master
