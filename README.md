@@ -61,11 +61,11 @@ git initial settings
 
 Staged Archives
 
-![](C:\Users\Judenilson\AppData\Roaming\marktext\images\2022-11-14-16-12-58-image.png)
+![Processo](https://github.com/Judenilson/dio-github-first-repository-challenge/blob/main/img/staged.png)
 
 Commits Archives
 
-![](C:\Users\Judenilson\AppData\Roaming\marktext\images\2022-11-14-16-13-13-image.png)
+![commit](https://github.com/Judenilson/dio-github-first-repository-challenge/blob/main/img/commits.png)
 
 ---
 
