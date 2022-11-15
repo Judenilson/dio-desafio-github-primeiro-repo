@@ -59,13 +59,13 @@ git initial settings
 
 ## GIT Cycle
 
-Staged Archives
 
-![staged](https://github.com/Judenilson/dio-github-first-repository-challenge/blob/main/img/staged.png "staged")
+
+![staged](https://raw.githubusercontent.com/Judenilson/dio-github-first-repository-challenge/main/img/staged.png "staged")
 
 Commits Archives
 
-![commit](https://github.com/Judenilson/dio-github-first-repository-challenge/blob/main/img/commits.png "commit")
+![commit](https://raw.githubusercontent.com/Judenilson/dio-github-first-repository-challenge/main/img/commits.png "commit")
 
 ---
 
