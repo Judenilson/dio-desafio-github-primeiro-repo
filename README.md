@@ -94,6 +94,7 @@ If there are conflicts we must pull remote archives.
 Create a new repo in github site
 Create same folder in PC
 - git init
+- git add .
 - git commit -m "first commit"
 - git branch -M main
 - git remote add origin "repo adress"
