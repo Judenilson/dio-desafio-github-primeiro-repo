@@ -89,4 +89,12 @@ Upload archives
 
 If there are conflicts we must pull remote archives.
 
-> 
+--- 
+## NEW REPO EASY
+Create a new repo in github site
+Create same folder in PC
+- git init
+- git commit -m "first commit"
+- git branch -M main
+- git remote add origin "repo adress"
+- git push -u origin main
